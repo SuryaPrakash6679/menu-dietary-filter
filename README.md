@@ -16,9 +16,11 @@ AI-powered tool that analyzes restaurant menus to identify safe dishes based on 
 
 ![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20165516.png?raw=true
 )
+ ![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171506.png?raw=true)  
 ![image alt]( https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171541.png?raw=true) 
 
- ![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171506.png?raw=true)   
+ 
+ ![image alt](  https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171741.png?raw=true)        
 Over 32 million Americans have food allergies, and millions more follow specific dietary restrictions. When dining at new restaurants, it's challenging and time-consuming to:
 - Identify which dishes are actually safe
 - Spot hidden allergens (like fish sauce in Thai food)
