@@ -49,7 +49,7 @@ Upload any restaurant menu photo and get instant AI-powered analysis showing:
 - **Free & Open Source** - No API costs, runs completely offline
 
 ## 🚀 Live Demo
-
+video: https://raw.githubusercontent.com/SuryaPrakash6679/menu-dietary-filter/refs/heads/main/dietary%20project%20recordings%20(1).mp4
 **[Try it here](https://suryaprakash6679-menu-dietary-filter.streamlit.app)**
 
 ## 🛠️ Tech Stack
