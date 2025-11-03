@@ -63,12 +63,16 @@ video: https://raw.githubusercontent.com/SuryaPrakash6679/menu-dietary-filter/re
 ## 📸 Screenshots
 
 ### Upload & Select Restrictions
+![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20165516.png?raw=true
+)
 ![Main Interface](screenshots/main-interface.png)
 
 ### Analysis Results
+ ![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171506.png?raw=true)  
 ![Results](screenshots/results.png)
 
 ### Detailed Dish Information
+![image alt]( https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20171541.png?raw=true) 
 ![Details](screenshots/details.png)
 
 ## 🏃 Quick Start
