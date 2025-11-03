@@ -1,4 +1,5 @@
 # 🍽️ Restaurant Menu Dietary Filter
+video: https://raw.githubusercontent.com/SuryaPrakash6679/menu-dietary-filter/refs/heads/main/dietary%20project%20recordings%20(1).mp4
 
 AI-powered tool that analyzes restaurant menus to identify safe dishes based on dietary restrictions and allergies.
 
