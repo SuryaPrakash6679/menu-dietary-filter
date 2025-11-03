@@ -3,7 +3,8 @@ video: https://raw.githubusercontent.com/SuryaPrakash6679/menu-dietary-filter/re
 
 image:https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20165516.png?raw=true
 
-
+![image alt](https://github.com/SuryaPrakash6679/menu-dietary-filter/blob/main/Screenshot%202025-11-03%20165516.png?raw=true
+)
 AI-powered tool that analyzes restaurant menus to identify safe dishes based on dietary restrictions and allergies.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
